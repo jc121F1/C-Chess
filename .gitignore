@@ -236,3 +236,4 @@ _deps
 *-prefix/
 
 .vscode/
+.exe
